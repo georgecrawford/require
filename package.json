@@ -1,0 +1,13 @@
+{
+	"author": "George Crawford",
+	"name": "requirejs-experimentation",
+	"description": "Experimentation",
+	"version": "0.1.0",
+	"dependencies": {
+		"requirejs": ">=2.1.2"
+	},
+	"repository": {
+		"type" : "git",
+		"url" : "git@github.com:georgecrawford/require.git"
+	}
+}
