@@ -6,6 +6,11 @@
 	"dependencies": {
 		"requirejs": ">=2.1.2"
 	},
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-watch": "~0.5.1",
+		"grunt-cli": "~0.1.9"
+	},
 	"repository": {
 		"type" : "git",
 		"url" : "git@github.com:georgecrawford/require.git"
